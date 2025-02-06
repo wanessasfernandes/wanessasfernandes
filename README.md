@@ -5,14 +5,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wanessasfernandes&theme=dracula" alt="GitHub Streak"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wanessasfernandes&theme=dracula"/>
-
-
-
 Bem-vindo ao meu cantinho no GitHub! 👩‍💻 Sou estudante de **Engenharia de Computação** na **UERJ**, apaixonada por tecnologia, inovação e projetos que fazem a diferença e sempre aberta a aprender algo novo.  
 
 Aqui você vai encontrar um mix dos meus projetos, experimentos e ideias que refletem minha jornada na área de tecnologia. 🌟  
