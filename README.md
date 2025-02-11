@@ -14,6 +14,11 @@
       />
 </p>
 
+
+
+
+
+
 Bem-vindo ao meu cantinho no GitHub! 👩‍💻 Sou estudante de **Engenharia de Computação** na **UERJ**, apaixonada por tecnologia, inovação e projetos que fazem a diferença e sempre aberta a aprender algo novo.  
 
 Aqui você vai encontrar um mix dos meus projetos, experimentos e ideias que refletem minha jornada na área de tecnologia. 🌟  
