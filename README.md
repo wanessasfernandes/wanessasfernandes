@@ -1,18 +1,11 @@
 # 👋 Olá, eu sou Wanessa!  
 
-</a>
-
 <p align="center">
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="ilustração do status do github">
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="ilustração do status do github">
-
-<img
-        align="right"
-        src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true"
-        alt="Github Stats"
-      />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Linguagens mais usadas no GitHub">
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Status do GitHub">
 </p>
+
 
 
 
