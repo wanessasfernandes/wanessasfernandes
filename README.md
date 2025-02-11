@@ -2,8 +2,7 @@
 
 <p align="center">
   📊 Focada em <strong>Ciência de Dados</strong> 
-  
-  🔍 Explorando padrões e criando insights a partir dos dados  
+  🔬 Explorando padrões e criando insights a partir dos dados  
 </p>
 
 ---
