@@ -23,7 +23,6 @@
 
 ---
 
-### 🌍 **Conecte-se comigo**
 <p align="center">
   <a href="https://www.linkedin.com/in/wanessa-fernandes-04600b258">
     <img src="https://img.shields.io/badge/LinkedIn-Wanessa%20Fernandes-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
