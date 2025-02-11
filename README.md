@@ -9,14 +9,14 @@
 
 <div align="center">
   <a href="https://github.com/wanessasfernandes">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=transparent&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500&bg_color=0D1017&hide_border=true" alt="GitHub Stats">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&show_icons=true&theme=transparent&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500&bg_color=0D1017&hide_border=true" alt="Linguagens mais usadas">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true" alt="GitHub Stats">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true" alt="Linguagens mais usadas">
   </a>
 </div>
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,sql,powerbi,c,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow" />
 </p>
 
 ---
