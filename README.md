@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,sql,powerbi" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,sql,powerbi" />
 </p>
 
 ---
