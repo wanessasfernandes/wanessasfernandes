@@ -1,7 +1,9 @@
 <h1 align="center">🚀 Olá, sou a <strong>Wanessa Fernandes</strong>!</h1>
 
 <p align="center">
-  📊 Focada em <strong>Ciência de Dados</strong> 
+  📊 Focada em <strong>Ciência de Dados</strong>  
+</p>
+<p align="center">
   🔬 Explorando padrões e criando insights a partir dos dados  
 </p>
 
