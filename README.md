@@ -20,7 +20,7 @@
 ## 🛠️ Tecnologias & Ferramentas  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,SLQ,powerBI" />
 </p>
 
 ---
