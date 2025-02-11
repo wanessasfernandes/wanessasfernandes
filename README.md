@@ -6,8 +6,6 @@
 
 ---
 
-## 🚀 GitHub Stats  
-
 <div align="center">
   <a href="https://github.com/wanessasfernandes">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true" alt="GitHub Stats">
@@ -17,15 +15,11 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,SLQ,powerBI" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,sql,powerbi" />
 </p>
 
 ---
-
-## 📫 Contato  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/wanessa-fernandes-04600b258">
