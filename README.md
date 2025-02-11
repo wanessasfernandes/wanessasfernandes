@@ -1,51 +1,23 @@
-# 👋 Olá, eu sou Wanessa!  
+# 👋 Olá, eu sou a Wanessa Fernandes!
+
+🎓 Estudante de **Engenharia de Computação** no **IPRJ - UERJ**  
+📊 Focada em **Ciência de Dados** e **Machine Learning**  
+
+---
+
+## 🚀 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Linguagens mais usadas no GitHub">
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&cache_seconds=2300&hide_border=true" alt="Status do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true" alt="GitHub Stats">
 </p>
 
-
-
-
-
-
-
-Bem-vindo ao meu cantinho no GitHub! 👩‍💻 Sou estudante de **Engenharia de Computação** na **UERJ**, apaixonada por tecnologia, inovação e projetos que fazem a diferença e sempre aberta a aprender algo novo.  
-
-Aqui você vai encontrar um mix dos meus projetos, experimentos e ideias que refletem minha jornada na área de tecnologia. 🌟  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true" alt="Linguagens mais usadas">
+</p>
 
 ---
 
-## 🚀 Sobre mim  
+## 📫 Contato
 
-🔹 Estudante dedicada com formação técnica em Automação Industrial pelo SENAI.  
-🔹 Adoro programar e explorar soluções criativas para desafios reais.  
-
-Sou movida por desafios que envolvem criatividade, tecnologia e impacto positivo!  
-
----
-
-## 🛠️ Habilidades  
-
-- **Linguagens de Programação**:  
-  🐍 Python, C/C++, HTML e CSS  
-
-- **Ferramentas e Frameworks**:  
-  ⚙️ Power BI, Corel Draw, Photoshop, React.js  
-
-- **Outras habilidades**:  
-  💡 Automação e elétrica/eletrônica 
-
-Sempre em busca de aprender e aprimorar! 📚  
-
----
-
-## 🎯 Onde você me encontra?  
-
-📧 **E-mail**: [wanessadesouzafernandesvr@gmail.com](mailto:wanessadesouzafernandesvr@gmail.com)  
-📱 **Telefone**: +55 (24) 99907-3213  
-🔗 **LinkedIn**: [Wanessa de Souza Fernandes](http://www.linkedin.com/in/wanessa-fernandes-04500b258)  
-
-Vamos construir algo incrível juntos? 🚀  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wanessa%20Fernandes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wanessasfernandes/)  
+[![Email](https://img.shields.io/badge/Email-wanessafernandes%40example.com-red?style=flat&logo=gmail)](mailto:wanessafernandes@example.com)
