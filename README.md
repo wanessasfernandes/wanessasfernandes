@@ -17,5 +17,6 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wanessa%20Fernandes-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/wanessasfernandes/](https://www.linkedin.com/in/wanessa-fernandes-04600b258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAejNcSqNTialnMKtarV6Pg%3D%3D))  
-[![Email](https://img.shields.io/badge/Email-wanessafernandes%40example.com-red?style=flat&logo=gmail)](mailto:wanessadesouzafernandesvr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wanessa%20Fernandes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/wanessa-fernandes-04600b258)  
+[![Email](https://img.shields.io/badge/Email-wanessadesouzafernandesvr%40gmail.com-red?style=flat&logo=gmail)](mailto:wanessadesouzafernandesvr@gmail.com)
+
