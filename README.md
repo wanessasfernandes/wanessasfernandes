@@ -4,9 +4,6 @@
 <p align="center">
   📊 Focada em <strong>Ciência de Dados</strong>  
 </p>
-<p align="center">
-  🔬 Explorando padrões e criando insights a partir dos dados  
-</p>
 
 ---
 
