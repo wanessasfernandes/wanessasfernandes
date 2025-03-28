@@ -1,5 +1,7 @@
 <h2 align="center">🚀 Olá, sou a <strong>Wanessa Fernandes</strong>!</h2>
 
+---
+
 <div align="center">
   <a href="https://github.com/wanessasfernandes">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true" alt="GitHub Stats">
