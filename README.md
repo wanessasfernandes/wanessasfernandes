@@ -1,10 +1,5 @@
 <h2 align="center">🚀 Olá, sou a <strong>Wanessa Fernandes</strong>!</h2>
 
-
-<p align="center">
-  📊 Focada em <strong>Ciência de Dados</strong>  
-</p>
-
 ---
 
 <div align="center">
