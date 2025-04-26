@@ -1,4 +1,4 @@
-<h2 align="center">🚀 Olá, sou a <strong>Wanessa Fernandes</strong>!</h2>
+<h2 align="center">🚀 Olá, eu sou a <strong>Wanessa Fernandes</strong>!</h2>
 
 ---
 
@@ -9,12 +9,16 @@
   </a>
 </div>
 
+---
+
+### 🛠️ **Tecnologias e Ferramentas**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow" alt="Tecnologias que utilizo" />
 </p>
 
 ---
 
+### 📫 **Contato**
 <p align="center">
   <a href="https://www.linkedin.com/in/wanessadsfernandes/">
     <img src="https://img.shields.io/badge/LinkedIn-Wanessa%20Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
