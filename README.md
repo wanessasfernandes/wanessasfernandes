@@ -6,13 +6,10 @@
 </div>
 
 <br>
-
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow" alt="Tech Stack" />
 </p>
-
-
 <br>
 
 ## 📬 Vamos conversar!
