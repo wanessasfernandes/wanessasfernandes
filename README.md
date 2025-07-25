@@ -7,10 +7,14 @@
 
 <br>
 
-## 🌟 Tecnologias e Ferramentas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow&theme=dark&perline=5" alt="Tech Stack"/>
-</div>
+<!-- Tecnologias e Ferramentas -->
+<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow" alt="Tech Stack" />
+</p>
+
+<hr style="border: none; border-top: 1px solid #444;" />
+
 
 <br>
 
