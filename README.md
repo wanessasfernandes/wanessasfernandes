@@ -12,8 +12,6 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow" alt="Tech Stack" />
 </p>
 
-<hr style="border: none; border-top: 1px solid #444;" />
-
 
 <br>
 
