@@ -7,8 +7,7 @@
 
 <br>
 
-<!-- Tecnologias e Ferramentas -->
-<h3 align="center">🛠️ Tecnologias e Ferramentas</h3>
+## 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,git,github,vscode,c,tensorflow" alt="Tech Stack" />
 </p>
