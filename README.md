@@ -16,7 +16,7 @@ Minhas principais atividades envolvem:
 
 #
 
-<img align="right" alt="study-gif" height="190px" src="./src/study.gif">
+<img align="right" alt="study-gif" height="190px" src=".src/Illustration - characters.gif">
 
 <h3 align="left">💜 Minha Stack</h3>
 
