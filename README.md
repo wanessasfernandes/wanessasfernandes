@@ -1,10 +1,6 @@
-<p align="center">
-  🎓 Estudante de Engenharia da Computação na <b>Universidade do Estado do Rio de Janeiro (UERJ)</b>.<br>
-  🤖 <b>Machine Learning & Ciência de Dados</b> | <b>IA aplicada à Saúde</b> | Python, LLMs & Modelos Preditivos.<br>
-  💡 Como bolsista de Iniciação Científica, atuo no desenvolvimento de soluções baseadas em Inteligência Artificial voltadas para o diagnóstico e o monitoramento clínico, com foco em inovação tecnológica na área da saúde.
+<p>
+  🎓 Estudante de Engenharia da Computação.<br>
 </p>
-
-<p><b>Minhas principais atividades envolvem:</b></p>
 
 <ul>
   <li>🧠 Desenvolvimento de algoritmos de <b>Machine Learning</b> aplicados ao monitoramento de tumores, com foco em precisão e eficiência na análise de dados clínicos.</li>
@@ -13,10 +9,6 @@
 </ul>
 
 ---
-
-<p align="center">
-  <img align="center" alt="study-gif" height="190px" src="./src/Illustration-characters.gif">
-</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
@@ -34,10 +26,13 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://github.com/wanessasfernandes">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  </a>
+
+  <a href="https://github.com/wanessasfernandes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
   </a>
 </div>
 
