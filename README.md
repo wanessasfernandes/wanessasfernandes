@@ -28,11 +28,15 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
   <a href="https://github.com/wanessasfernandes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="150em" 
+         src="https://github-readme-stats-two-mauve-39.vercel.app/api?username=wanessasfernandes&show_icons=true&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&include_all_commits=true" 
+         alt="GitHub Stats"/>
   </a>
 
   <a href="https://github.com/wanessasfernandes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
+    <img height="150em" 
+         src="https://github-readme-stats-two-mauve-39.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&count_private=true&langs_count=8" 
+         alt="Top Languages"/>
   </a>
 </div>
 
