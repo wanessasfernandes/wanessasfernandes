@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="sql logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo" />
@@ -35,7 +37,7 @@
 
   <a href="https://github.com/wanessasfernandes">
     <img height="150em" 
-         src="https://github-readme-stats-two-mauve-39.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&count_private=true&langs_count=8" 
+         src="https://github-readme-stats-two-mauve-39.vercel.app/api/top-langs/?username=wanessasfernandes&layout=compact&theme=radical&title_color=BF00FF&text_color=FFFFFF&icon_color=BF00FF&bg_color=000000&hide_border=true&count_private=true&langs_count=8&hide=css,html" 
          alt="Top Languages"/>
   </a>
 </div>
