@@ -1,11 +1,15 @@
 <p>
-  🎓 Estudante de Engenharia da Computação.<br>
+  🎓 Estudante de Engenharia da Computação apaixonada por Inteligência Artificial, Machine Learning e desenvolvimento de software.<br>
 </p>
 
 <ul>
-  <li>🧠 Desenvolvimento de algoritmos de <b>Machine Learning</b> aplicados ao monitoramento de tumores, com foco em precisão e eficiência na análise de dados clínicos.</li>
-  <li>💬 Integração de <b>IAs generativas</b> e <b>LLMs (Large Language Models)</b> para otimizar fluxos de suporte e interpretação de exames, ampliando o potencial de apoio a profissionais da área médica.</li>
-  <li>📊 Pesquisa e avaliação de <b>modelos preditivos</b>, com ênfase em desempenho, robustez e aplicabilidade em contextos reais.</li>
+  <li>🧠 Pesquisa aplicada em <b>Machine Learning</b> e <b>IA Generativa</b>, desenvolvendo soluções para processamento de dados, automação de fluxos e apoio à tomada de decisão.</li>
+
+  <li>💬 Construção de aplicações com <b>LLMs</b>, <b>Prompt Engineering</b> e <b>Processamento de Linguagem Natural (NLP)</b>, transformando modelos de IA em soluções utilizáveis em cenários reais.</li>
+
+  <li>⚙️ Desenvolvimento backend com integração de APIs, bancos de dados e serviços inteligentes, criando sistemas escaláveis e orientados a dados.</li>
+
+  <li>📈 Interesse em Ciência de Dados, Engenharia de Dados e MLOps, buscando transformar dados e modelos em produtos de alto impacto.</li>
 </ul>
 
 ---
